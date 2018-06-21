@@ -1,9 +1,0 @@
-JvmtiExport can_access_local_variables 0
-JvmtiExport can_hotswap_or_post_breakpoint 0
-JvmtiExport can_post_on_exceptions 0
-# 124 ciObject found
-ciMethod javax/servlet/ServletException <init> (Ljava/lang/String;)V 0 0 1 0 -1
-ciMethod javax/servlet/ServletRequest getAttribute (Ljava/lang/String;)Ljava/lang/Object; 0 0 1 0 -1
-ciMethod javax/servlet/ServletRequest setAttribute (Ljava/lang/String;Ljava/lang/Object;)V 0 0 1 0 -1
-ciMethod javax/servlet/ServletRequest removeAttribute (Ljava/lang/String;)V 0 0 1 0 -1
-ciMethod 
